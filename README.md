@@ -19,7 +19,7 @@ Installation / Usage
 clone the repo:
 
 ```
-git clone <git-url>
+git clone https://github.com/toschoch/docker-mosquitto-secrets.git
 ```
 build the docker image
 ```
